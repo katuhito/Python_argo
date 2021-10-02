@@ -8,7 +8,7 @@ while n > 0:
     result = str(n%2) + result
     #再び2で割った商を再度nに代入する
     n //= 2
-
+1, 
 print(result)
 
 
